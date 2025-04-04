@@ -1,0 +1,14 @@
+The 128x64 OLED project uses, as the name states, a 0.96-inch I2C OLED display with 128 x 64 pixels.
+
+INDEX:
+- Code: Contains the running code.
+- Design: Contains the sliced 3D file together with photos of the finished construction.
+- References: Contains reference documents used during development.
+
+Parts:
+- Microcontroller: LOLIN D1 mini V4.0.0 4MB ESP-8266EX based
+- 2xAA battery holder
+- 128x64 OLED display
+- Custom 3D printed shell
+
+OBS: No schematics were made due to the simplicity of the system.
