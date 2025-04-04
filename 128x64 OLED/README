@@ -1,4 +1,4 @@
-The 128x64 OLED project uses, as the name states, a 0.96-inch I2C OLED display with 128 x 64 pixels.
+The 128x64 OLED project uses, as the name states a 0.96-inch I2C OLED display with 128 x 64 pixels connected to a NTP clock.
 
 INDEX:
 - Code: Contains the running code.
@@ -10,5 +10,6 @@ Parts:
 - 2xAA battery holder
 - 128x64 OLED display
 - Custom 3D printed shell
+- I2C cable
 
 OBS: No schematics were made due to the simplicity of the system.
