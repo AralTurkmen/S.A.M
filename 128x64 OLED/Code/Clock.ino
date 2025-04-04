@@ -1,3 +1,4 @@
+//Special thanks to Andreas Spiess for the introduction to NTP clocks: https://youtu.be/r2UAmBLBBRM?si=MDycJG1m4C4NESjG
 #include <ESP8266WiFi.h>        // Include the Wi-Fi library
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
