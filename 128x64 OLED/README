@@ -1,7 +1,8 @@
-The 128x64 OLED project uses, as the name states a 0.96-inch I2C OLED display with 128 x 64 pixels connected to a NTP clock.
+The 128x64 OLED project uses, as the name states a 0.96-inch I2C OLED display with 128 x 64 pixels connected to a NTP clock through 2.4GHz WIFI.
 
 TODO:
 - The clock interface will be updated to only include hour and minute to lower battery consumption, and make space for larger text size.
+- The code will be updated to store more wifi combinations for 
 
 INDEX:
 - Code: Contains the running code.
@@ -15,4 +16,10 @@ Parts:
 - Custom 3D printed shell
 - I2C cable
 
+Assembly Instructions:
+1. Solder the I2C cable to its corresponding pins on the display.
+2. Solder the battery ground cable to the GND pin and positive cable to the 3v3 pin (Make sure the cables run back towards the WIFI antenna before soldering).
+3. Tape the microcontroller facing slightly right, freeing up space for the I2C cable and then connect the I2C cable.
+4. Tape the screen onto the inside of the top cover (the screen will fit into the cutout with some wiggling).
+5. Tape around the mouth of the shell so that the top cover fits snugly and won't loosen by itself.
 OBS: No schematics were made due to the simplicity of the system.
