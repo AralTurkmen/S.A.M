@@ -5,7 +5,7 @@
 #include "time.h"
 #include "sntp.h"
 //Screen Variables
-#define SCREEN_I2C_ADDR 0x3C // or 0x3C
+#define SCREEN_I2C_ADDR 0x3C // or 0x3D
 #define SCREEN_WIDTH 128     // OLED display width, in pixels
 #define SCREEN_HEIGHT 64     // OLED display height, in pixels
 #define OLED_RST_PIN -1      // Reset pin (-1 if not available)
