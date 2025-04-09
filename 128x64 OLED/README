@@ -2,7 +2,7 @@ The 128x64 OLED project uses, as the name states a 0.96-inch I2C OLED display wi
 
 TODO:
 - The clock interface will be updated to only include hour and minute to lower battery consumption, and make space for larger text size.
-- The code will be updated to store more wifi combinations for 
+- The code will be updated to store more wifi combinations
 
 INDEX:
 - Code: Contains the running code.
