@@ -1,4 +1,4 @@
-S.A.M.1 uses a 0.96-inch I2C OLED display with 128 x 64 pixels connected to a NTP clock through 2.4GHz WIFI.
+S.A.M.1 uses a 0.96-inch I2C OLED display with 128 x 64 pixels connected to a NTP clock through 2.4GHz WIFI. With a total of 120hours of battery life.
 
 TODO:
 - The clock interface will be updated to only include hour and minute to lower battery consumption, and make space for larger text size.
